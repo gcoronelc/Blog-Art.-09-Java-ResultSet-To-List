@@ -2,3 +2,4 @@
 Convertir un ResultSet en una lista de objetos Map.
 
 Se utiliza la clase JdbcUtil con métodos estáticos.
+El proyecto está desarrollado con NetBeans 8.
